@@ -1,8 +1,8 @@
-# homework
+# school
 
 ## Project setup
 ```
-npm install
+npm install OR cnpm install
 ```
 
 ### Compiles and hot-reloads for development
